@@ -1,0 +1,4 @@
+# primes.rb
+
+primes = []
+
